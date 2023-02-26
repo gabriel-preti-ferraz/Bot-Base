@@ -1,0 +1,7 @@
+{
+    "Cores": {
+        "Padrão": "Gold",
+        "Falha": "Red",
+        "Sucesso": "Green"
+    }
+}
